@@ -77,6 +77,7 @@ export default defineConfigWithVueTs(
             'vendor',
             'node_modules',
             'public',
+            'ui-ux-pro-max-skill',
             'bootstrap/ssr',
             'tailwind.config.js',
             'vite.config.ts',
