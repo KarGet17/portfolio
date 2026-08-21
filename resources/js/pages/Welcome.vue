@@ -1,10 +1,10 @@
 ﻿<script setup lang="ts">
 import { Head } from '@inertiajs/vue3';
 
-import PortfolioApp from '@/App.vue';
+import CleanProLanding from '@/components/CleanProLanding.vue';
 </script>
 
 <template>
-    <Head title="Karina Getmanenko - Interior Design" />
-    <PortfolioApp />
+    <Head title="CleanPro - клининговая компания в Риге" />
+    <CleanProLanding />
 </template>
